@@ -1,0 +1,19 @@
+{
+  "name": "peterblazejewicz.github.io",
+  "version": "1.0.0",
+  "description": "NPM configuration for project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peterblazejewicz/peterblazejewicz.github.io.git"
+  },
+  "author": "Peter Blazejewicz",
+  "license": "n/a",
+  "bugs": {
+    "url": "https://github.com/peterblazejewicz/peterblazejewicz.github.io/issues"
+  },
+  "homepage": "https://github.com/peterblazejewicz/peterblazejewicz.github.io"
+}
